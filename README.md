@@ -1,1 +1,1 @@
-# python_stztionery
+# Bill generator software v1
